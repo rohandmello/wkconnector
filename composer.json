@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "dmellorohan/connector": "1.0.0"
+        "wolterskluwer/dummy": "dev-main"
     }
 }
