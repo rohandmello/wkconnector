@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "dmellorohan/connector": "1.0.0"
+    }
 }
