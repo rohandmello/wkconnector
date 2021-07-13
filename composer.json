@@ -1,0 +1,19 @@
+{
+    "name": "wolterskluwer/connector",
+    "description": "CCH SureTax SOAP and REST connector",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wolterskluwer\\Connector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rohan Dmello",
+            "email": "Rohan.Dmello@wolterskluwer.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
