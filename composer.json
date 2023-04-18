@@ -15,9 +15,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "wolterskluwer/dummy": "dev-main"
-    },
     "suggest": {
         "wolterskluwer/cchsuretaxb2b": "Install this extension if you have B2B module installed"
     }
